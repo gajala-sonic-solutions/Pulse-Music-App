@@ -1,16 +1,12 @@
 # Pulse-Music-App
 
-<img src="watch-now-6.svg" alt="test" width="100%">
+Final = 7, 6, 4, 5, 2
 
----
+<a href="#"><img src="watch-now-7.svg" alt="test" width="100%"></a>
 
-<img src="watch-now-4.svg" alt="test" width="100%">
-
----
-
-<img src="watch-now-5.svg" alt="test" width="100%">
-
----
-
-<img src="watch-now-2.svg" alt="test" width="100%">
-
+Key Features: 
+1. focused ui
+2. track unwatched
+3. all and unwatched toggle
+4. 3 sortings
+5. pick random video
