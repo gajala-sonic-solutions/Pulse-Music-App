@@ -1,8 +1,8 @@
 # Pulse-Music-App
 
-Final = 7, 6, 4, 5, 2
+Final = 8 (7, 6, 4, 5, 2)
 
-<a href="#"><img src="watch-now-7.svg" alt="test" width="100%"></a>
+<a href="#"><img src="watch-now-8.svg" alt="test" width="100%"></a>
 
 Key Features: 
 1. focused ui
