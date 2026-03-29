@@ -1,7 +1,7 @@
 # Pulse-Music-App
 
 
-<img src="watch-now.svg" alt="test" width="100%">
+<img src="watch-now-4.svg" alt="test" width="100%">
 
 ---
 
